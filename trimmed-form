@@ -1,0 +1,389 @@
+<form method='post'
+    action='https://tbs.crmhd.com/maximizerwebaccess/Services/Webform.aspx?request=submitwebform&token=3A01030811000A08655B4616141D4B77451241634B66686B7A434D7E5F7D7C5C5555554A474C476759471713184173411D0C6200686B697846487B5E787B5E57550146104F4460584043101C4570411F09604E6B6B3B7F414C755E777D5F53555144424943645F4610101D42774C1D09674E6A686A2E444A790D7B7F5802535545424F43625D4212171A4325431C0B614D3B686D7D104F295E2A7C5E53045047451F43375F1011161D4477121D08644B686B6F2F441B785E7B7B5D02505E474D4D4C61584117114B'>
+
+    <div id='JavascriptWarning' class='warningmessage'>Javascript must be enabled in order to complete this form
+    </div>
+
+
+
+    <span class='webformlabel'>Last Name</span>
+
+    <input class='webforminput' name='C0ILastName' type='text'><span class='mandatorymarker'>*</span><br>
+
+
+
+    <span class='webformlabel'>First Name</span>
+
+    <input class='webforminput' name='C1IFirstName' type='text'><br>
+
+
+
+    <span class='webformlabel'>Refocus Enqiry\Client Name</span>
+
+    <input class='webforminput' name='U2I4' type='text'><br>
+
+
+
+    <span class='webformlabel'>Refocus Enqiry\Relationship to Client</span>
+
+    <select multiple size='7' class='webformselectm' name='U3I5'>
+
+        <option>Self</option>
+
+        <option>Husband/Wife</option>
+
+        <option>Son/Daughter</option>
+
+        <option>Friend</option>
+
+        <option>Medical Professional</option>
+
+        <option>Lawyer</option>
+
+        <option>Other</option>
+
+    </select><br>
+
+
+
+    <span class='webformlabel'>Phone 1</span>
+
+    <input class='webforminput' name='C4IPhone1' type='text'><br>
+
+
+
+    <span class='webformlabel'>Refocus Enqiry\Gender</span>
+
+    <select multiple size='4' class='webformselectm' name='U5I11'>
+
+        <option>Female</option>
+
+        <option>Male</option>
+
+        <option>Non Binary</option>
+
+        <option>Other</option>
+
+    </select><span class='mandatorymarker'>*</span><br>
+
+
+
+    <span class='webformlabel'>Refocus Enqiry\Age</span>
+
+    <input class='webforminput' name='U6I3' type='text'><br>
+
+
+
+    <span class='webformlabel'>Refocus Enqiry\Substances</span>
+
+    <select multiple size='10' class='webformselectm' name='U7I6'>
+
+        <option>Alcohol</option>
+
+        <option>Benzos</option>
+
+        <option>Cocaine</option>
+
+        <option>GHB</option>
+
+        <option>Heroin</option>
+
+        <option>Ice/Meth</option>
+
+        <option>Ketamine</option>
+
+        <option>LSD</option>
+
+        <option>Other</option>
+
+        <option>Prescription Meds</option>
+
+        <option>Synthetics</option>
+
+    </select><span class='mandatorymarker'>*</span><br>
+
+
+
+    <span class='webformlabel'>Refocus Enqiry\Aware of Costs?</span>
+
+    <input class='webforminput' name='U8I18' type='text'><br>
+
+
+
+    <span class='webformlabel'>Refocus Enqiry\Previous treatments</span>
+
+    <input class='webforminput' name='U9I7' type='text'><br>
+
+
+
+    <span class='webformlabel'>Refocus Enqiry\Legal Challenges?</span>
+
+    <input class='webforminput' name='U10I15' type='text'><br>
+
+
+
+    <span class='webformlabel'>Refocus Enqiry\Physical Health Issues?</span>
+
+    <input class='webforminput' name='U11I17' type='text'><br>
+
+
+
+    <span class='webformlabel'>Refocus Enqiry\Mental Health Issues</span>
+
+    <input class='webforminput' name='U12I8' type='text'><br>
+
+
+
+    <span class='webformlabel'>Refocus Enqiry\Current Medications</span>
+
+    <input class='webforminput' name='U13I9' type='text'><br>
+
+
+
+    <span class='webformlabel'>Refocus Enqiry\Detox Required?</span>
+
+    <input class='webforminput' name='U14I16' type='text'><br>
+
+
+
+    <span class='webformlabel'>Refocus Enqiry\Potential Client?</span>
+
+    <select multiple size='3' class='webformselectm' name='U15I14'>
+
+        <option>Maybe</option>
+
+        <option>No</option>
+
+        <option>Yes</option>
+
+    </select><br>
+
+
+
+    <span class='webformlabel'>Refocus Enqiry\Referred To:</span>
+
+    <select multiple size='10' class='webformselectm' name='U16I10'>
+
+        <option>Arrow Health 9533 7888</option>
+
+        <option>Beyond Blue 1300 224 636</option>
+
+        <option>Dayhab 1 800 329 422</option>
+
+        <option>Direct Line 1 800 888 236</option>
+
+        <option>Family Drug Help 1 300 660 068</option>
+
+        <option>Hader 1800 883 388</option>
+
+        <option>Life Line 13 11 14</option>
+
+        <option>Malvern Private 9885 9621</option>
+
+        <option>Sharc 9573 1700</option>
+
+        <option>Sharc Yoputh 9573 1700</option>
+
+        <option>Sober Living 1 800 531 551</option>
+
+        <option>Suicide Call Back 1 300 659 467</option>
+
+        <option>YSAS (youth) 9415 8881</option>
+
+    </select><br>
+
+
+
+    <span class='webformlabel'>Sales\Lead status</span>
+
+    <select class='webformselect' name='U17I57998'>
+
+        <option />
+
+        <option>Referred Elsewhere</option>
+
+        <option>Not Suitable</option>
+
+        <option>Assesment Booked</option>
+
+        <option>Sent Brochure</option>
+
+        <option>Other</option>
+
+        <option>Unknown</option>
+
+        <option>Follow Up</option>
+
+    </select><br>
+
+
+
+    <span class='webformlabel'>Email Address</span>
+
+    <input class='webforminput' name='U18I58850' type='text'><br>
+
+
+
+    <span class='webformlabel'>Sales\Lead source</span>
+
+    <select class='webformselect' name='U19I57997'>
+
+        <option />
+
+        <option>Friend</option>
+
+        <option>Google</option>
+
+        <option>Medical Referral</option>
+
+        <option>Other</option>
+
+        <option>Past Client Referral</option>
+
+        <option>Unknown</option>
+
+    </select><br>
+
+
+
+    <span class='webformlabel'>Refocus Enqiry\Call taken by</span>
+
+    <input class='webforminput' name='U20I13' type='text'><br>
+
+
+
+    <span class='webformlabel'>Refocus Enqiry\Other Info</span>
+
+    <input class='webforminput' name='U21I12' type='text'><br>
+
+
+
+    <div id='MandatoryWarning' class='warningmessage' style='display:none'>All fields marked with a * must have a
+        value in order to complete this form</div>
+
+    <div id='FormatWarning' class='warningmessage' style='display:none'></div>
+
+    <input class='submitbutton' type='submit' id='SubmitButton' value='Submit' disabled='true'
+        onclick='return Validate();' />
+
+</form>
+
+<!----------------------------------------------------------------------->
+
+<!--  Script Definition: Add other javascript here if needed.          -->
+
+<!----------------------------------------------------------------------->
+
+<script type='text/javascript'>
+
+    function Validate() {
+
+        var mandatorySatisfied = true;
+
+        var formatSatisfied = true;
+
+        if (document.getElementsByName('C0ILastName')[0].value.length == 0) mandatorySatisfied = false;
+
+        if (NoItemSelected(document.getElementsByName('U5I11')[0])) mandatorySatisfied = false;
+
+        if (NoItemSelected(document.getElementsByName('U7I6')[0])) mandatorySatisfied = false;
+
+        document.getElementById('FormatWarning').style.display = 'none';
+
+        document.getElementById('MandatoryWarning').style.display = 'none';
+
+        if (formatSatisfied) {
+
+            if (mandatorySatisfied) {
+
+                document.getElementById('SubmitButton').value = 'Submitting...';
+
+                document.getElementById('SubmitButton').disabled = true;
+
+                document.forms[0].submit();
+
+                return false;
+
+            }
+
+            document.getElementById('MandatoryWarning').style.display = '';
+
+            return false;
+
+        }
+
+        document.getElementById('FormatWarning').style.display = '';
+
+        return false;
+
+    }
+
+    function InvalidNumber(element) {
+
+        var ps = element.previousSibling; while (ps && ps.nodeType != 1) { ps = ps.previousSibling; }
+
+        if (element.value.length > 0 && isNaN(+(element.value.replace(',', '.')))) {
+
+            document.getElementById('FormatWarning').innerHTML = 'The value of the ' + ps.innerHTML + ' field is not a valid number.';
+
+            return true;
+
+        }
+
+        return false;
+
+    }
+
+    function InvalidDate(element) {
+
+        var ps = element.previousSibling; while (ps && ps.nodeType != 1) { ps = ps.previousSibling; }
+
+        if (element.value.length > 0 && isNaN(Date.parse(element.value))) {
+
+            document.getElementById('FormatWarning').innerHTML = 'The value of the ' + ps.innerHTML + ' field is not a valid date.';
+
+            return true;
+
+        }
+
+        return false;
+
+    }
+
+    function FixDate(element) {
+
+        if (element.value.length > 0) {
+
+            var d = new Date(element.value);
+
+            element.value = d.getFullYear() + '-' + Pad2(d.getUTCMonth() + 1) + '-' + Pad2(d.getUTCDate());
+
+        }
+
+    }
+
+    function Pad2(n) {
+
+        var str = '' + n;
+
+        while (str.length < 2) {
+
+            str = '0' + str;
+
+        }
+
+        return str;
+
+    }
+
+    function NoItemSelected(element) {
+
+        if (element.selectedIndex < 0) return true;
+
+        if (element.item(element.selectedIndex).value.length == 0) return true;
+
+        return false;
+
+    }
+
+</script>
